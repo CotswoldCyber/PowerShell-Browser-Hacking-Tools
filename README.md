@@ -7,6 +7,7 @@ These scripts are meant for cybersecurity labs, DFIR learning, and personal rese
 Do NOT use on any system you do not own or have explicit permission to analyze.
 
 ---
+Influenced by @I_am_Jackoby
 
 ## Scripts Included
 
